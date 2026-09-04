@@ -1,0 +1,15 @@
+{
+    "program_level": "LS",
+    "tracked_courses": [
+        {
+            "branch_code": "BLG",
+            "crns": [
+                12462
+            ]
+        }
+    ],
+    "polling_interval_minutes": 5,
+    "notifications_enabled": false,
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+}

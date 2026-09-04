@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+monitor.log
+final_summary.md
+config.json
+.env
+.venv/
+venv/
